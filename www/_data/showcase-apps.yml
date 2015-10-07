@@ -24,3 +24,17 @@
     description: >
         Sworkit delivers on-demand, personalized video exercises to millions
         of users to help them stay fit.
+
+-   name: Intel® App Preview (whimsical)
+    image: xdk-appprev-art.png
+    url: https://software.intel.com/xdk/docs/intel-xdk-app-preview-overview
+    description: >
+        Yo dawg, I heard you like Cordova apps so I made a Cordova app that 
+        runs Cordova apps so you can preview without compiling.
+
+-   name: Intel® App Preview (actual)
+    image: xdk-appprev-art.png
+    url: https://software.intel.com/xdk/docs/intel-xdk-app-preview-overview
+    description: >
+        A Cordova app for Cordova developers.  Works with Intel XDK to enable 
+        on-device preview/debug. 100k+ downloads with 4+ stars on 3 platforms!
